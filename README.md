@@ -2,8 +2,11 @@
 
 # color palette 
 - Green: #35FFDC
-- Pink: #FF90D0
+- Magenta: #FF90D0
 - Red: #EC2864
-- Orange: #FFB86C
+- Yellow: #FFB86C
 - Blue: #7DC1FF
 - Purple: #B084EB
+- Cyan: #15FCDC
+- Black: #292A2B
+- White: F3F3F3
